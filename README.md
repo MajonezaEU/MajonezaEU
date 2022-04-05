@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dardofy
+- 👋 Hi, I’m @MajonezaEU
 - 👀 I’m interested in Hypixel Skyblock
 - 🌱 I’m currently learning Java scripting mods
 - 💞️ I’m looking to collaborate on 74251028
